@@ -42,3 +42,16 @@ a:hover {
 .table li {
   margin-bottom: 4px;
 }
+
+#Historia span {
+  font-size: 14px;
+}
+#Historia {
+  margin-top: 16px;
+  color: #000000;
+  margin: 0;
+  padding-top: 0.5em;
+  padding-bottom: 0.17em;
+  overflow: hidden;
+  border-bottom: 1px solid #a2a9b1;
+}
