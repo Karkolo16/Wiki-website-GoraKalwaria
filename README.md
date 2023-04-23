@@ -1,1 +1,1 @@
-# Wiki-website-GoraKalwaria
+Made Wikipoedia website about city called Gora Kalwaria. Trying to make exact copy of it.
