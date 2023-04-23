@@ -55,3 +55,11 @@ a:hover {
   overflow: hidden;
   border-bottom: 1px solid #a2a9b1;
 }
+p {
+  margin: 8px 0;
+  display: block;
+  margin-block-start: 16px;
+  margin-block-end: 16px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
