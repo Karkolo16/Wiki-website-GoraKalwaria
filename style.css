@@ -5,3 +5,8 @@ h1 {
   line-height: 1.375;
   border-bottom: 1px solid #a2a9b1;
 }
+
+a {
+  text-decoration: none;
+  color: blue;
+}
