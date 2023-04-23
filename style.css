@@ -9,8 +9,36 @@ h1 {
 a {
   text-decoration: none;
   color: blue;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.heading {
+  text-align: center;
+  display: block;
+  font-size: 14px;
 }
 
 .heading span {
-  font-size: 16px;
+  font-size: 12px;
+}
+
+.table {
+  display: table;
+  padding: 7px;
+  background-color: #f8f9fa;
+  border: 1px solid #a2a9b1;
+  padding: 5px;
+  font-size: 95%;
+}
+
+.table ol {
+  text-align: left;
+}
+
+.table li {
+  margin-bottom: 4px;
 }
