@@ -64,3 +64,11 @@ p {
   margin-inline-end: 0px;
   line-height: 1.6;
 }
+
+.z-heading {
+  border-bottom: 1px solid #a2a9b1;
+}
+
+.z-heading span {
+  font-size: 14px;
+}
