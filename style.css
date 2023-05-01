@@ -86,3 +86,7 @@ p {
   display: list-item;
   line-height: 1.6;
 }
+
+.Demo span {
+  font-size: 14px;
+}
