@@ -127,3 +127,45 @@ p {
 .kultura-table {
   line-height: 1.6;
 }
+
+.infobox td {
+  vertical-align: top;
+  padding: 4px;
+}
+
+.infobox tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+.infobox {
+  border: 1px solid #a2a9b1;
+  background-color: #f8f8f8;
+  border-collapse: collapse;
+  color: black;
+  font-size: 90%;
+  text-align: left;
+  margin: 0 0 0.4em 1.4em;
+  border-spacing: 0;
+  float: right;
+  clear: right;
+  width: 250px;
+}
+
+.infobox caption {
+  border-width: 1px;
+  border-color: #a2a9b1;
+  border-top-style: solid;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-bottom-style: none;
+  border-collapse: collapse;
+  color: black;
+  border-spacing: 0;
+  text-align: center;
+  margin: 0;
+  background: #eaecf0;
+  padding: 4px;
+  caption-side: top;
+}
