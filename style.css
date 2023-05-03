@@ -132,6 +132,9 @@ p {
   vertical-align: top;
   padding: 4px;
   text-align: center;
+}
+
+.below-header {
   font-style: italic;
 }
 
@@ -170,4 +173,11 @@ p {
   background: #eaecf0;
   padding: 4px;
   caption-side: top;
+}
+
+.images-infobox {
+  border-bottom: 1px solid #a2a9b1;
+  background-color: white;
+  text-align: center;
+  vertical-align: middle;
 }
