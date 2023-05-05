@@ -181,24 +181,3 @@ p {
   text-align: center;
   vertical-align: middle;
 }
-
-.Herb-Flaga {
-  display: table-row;
-  border-spacing: 0;
-  border-collapse: collapse;
-}
-
-.herb img {
-  width: 100px;
-  height: 118px;
-}
-
-.flag {
-  vertical-align: middle;
-  text-align: center;
-}
-
-.flag img {
-  width: 100px;
-  height: 63px;
-}
