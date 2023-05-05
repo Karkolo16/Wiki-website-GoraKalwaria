@@ -181,3 +181,12 @@ p {
   text-align: center;
   vertical-align: middle;
 }
+
+.herb-flaga {
+  border-bottom: 1px solid #aaa;
+}
+
+.herb-flaga td {
+  text-align: center;
+  vertical-align: middle;
+}
