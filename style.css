@@ -190,3 +190,31 @@ p {
   text-align: center;
   vertical-align: middle;
 }
+
+.country {
+  text-align: left;
+  background-color: #eee;
+  color: #111;
+  vertical-align: top;
+  font-weight: normal;
+}
+
+.country a {
+  word-wrap: break-word;
+  text-decoration: none;
+}
+
+.panstwo {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+
+.panstwo p {
+  margin: 0;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
